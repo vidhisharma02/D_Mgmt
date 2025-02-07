@@ -33,11 +33,12 @@ const GoogleTranslate = () => {
   }, []);
 
   return (
-    <div>
-      <h2>Language Translator</h2>
+    <div className="translator-container">
+      <h2 className="language-translator-title">Language Translator</h2>
       <div id="google_translate_element"></div>
     </div>
   );
 };
+
 
 export default GoogleTranslate;
