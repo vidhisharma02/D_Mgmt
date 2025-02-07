@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/D_Mgmt/static/css/main.eade8683.css",
-    "main.js": "/D_Mgmt/static/js/main.6669a593.js",
-    "static/media/Safehorizon logo.png": "/D_Mgmt/static/media/Safehorizon logo.4bc1ec004fe96f2b63f4.png",
+    "main.css": "/D_Mgmt/static/css/main.1ae34a52.css",
+    "main.js": "/D_Mgmt/static/js/main.25f86b55.js",
     "index.html": "/D_Mgmt/index.html",
-    "main.eade8683.css.map": "/D_Mgmt/static/css/main.eade8683.css.map",
-    "main.6669a593.js.map": "/D_Mgmt/static/js/main.6669a593.js.map"
+    "main.1ae34a52.css.map": "/D_Mgmt/static/css/main.1ae34a52.css.map",
+    "main.25f86b55.js.map": "/D_Mgmt/static/js/main.25f86b55.js.map"
   },
   "entrypoints": [
-    "static/css/main.eade8683.css",
-    "static/js/main.6669a593.js"
+    "static/css/main.1ae34a52.css",
+    "static/js/main.25f86b55.js"
   ]
 }
